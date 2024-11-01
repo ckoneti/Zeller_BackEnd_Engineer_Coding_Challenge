@@ -6,7 +6,6 @@ pricingRules.setRules("ipd", 549.99);
 pricingRules.setRules("mbp", 1399.99);
 pricingRules.setRules("atv", 109.5);
 pricingRules.setRules("vga", 30);
-pricingRules.setRules("ipd", 658.99);
 
 //checkout functionality for scanning and retrieving the total of all items scanned
 export class Checkout {
